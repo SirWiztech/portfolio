@@ -8,42 +8,42 @@ const projects = [
     name: "Bank App",
     year: "Jan2024",
     align: "left",
-    image: "images/BANK.png",
+    image: "/images/BANK.png", // <-- Add leading slash
     link: "https://nova.karamelscript.com.ng/",
   },
   {
     name: "Quizify App",
     year: "Mar2025",
     align: "right",
-    image: "images/quizify.png",
+    image: "/images/quizify.png", // <-- Add leading slash
     link: "https://quizzify2025.netlify.app/",
   },
   {
     name: "GIFT CARD App",
     year: "Sept2024",
     align: "left",
-    image: "images/giftcard.png",
+    image: "/images/giftcard.png", // <-- Add leading slash
     link: "https://webtechs.com.ng/bitbounty/",
   },
   {
     name: "Ethereal landing Page",
     year: "May2025",
     align: "right",
-    image: "images/ethereal.png",
+    image: "/images/ethereal.png", // <-- Add leading slash
     link: "https://ethereal-book-slot.netlify.app/",
   },
   {
     name: "Investment App",
     year: "March2025",
     align: "left",
-    image: "images/investment.png",
+    image: "/images/investment.png", // <-- Add leading slash
     link: "https://rankhyip.webblog.top/",
   },
   {
     name: "Web3 App",
     year: "Aug2025",
     align: "right",
-    image: "images/web3.png",
+    image: "/images/web3.png", // <-- Add leading slash
     link: "https://bitweb.karamelscript.com.ng/",
   }
 ];
